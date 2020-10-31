@@ -9,3 +9,5 @@ Tengo 28 años, soy ingeniero en tics
 y estoy aprendiendo a usar Git y Github
 
 Estoy haciendo pruebas en Git
+
+Hablaremos de mi vida
