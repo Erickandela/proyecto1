@@ -1,0 +1,5 @@
+Hola me llamo erick
+
+Tengo 28 años, soy ingeniero en tics
+
+y estoy aprendiendo a usar Git y Github
